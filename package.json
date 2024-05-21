@@ -1,7 +1,7 @@
 {
-  "name": "@11ty/eleventy-dev-server",
+  "name": "@11ty/eleventy-PatManPortfolioStructure-dev-server",
   "version": "2.0.0",
-  "description": "A minimal, modern, generic, hot-reloading local web server to help web developers.",
+  "description": "A website portfolio all for supporting Patrick Mannix.",
   "main": "server.js",
   "scripts": {
     "test": "npx ava --verbose",
