@@ -27,16 +27,16 @@
     "access": "public"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "Patrick Mannix",
+    "email": "patrickmannix3802@gmail.com",
+    "url": "blob:https://github.com/87096940-df26-4dda-a974-cdde8465e80d"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-dev-server.git"
+    "url": "git://github.com/11ty/eleventy-patrickmannix-portfolio-dev-server.git"
   },
-  "bugs": "https://github.com/11ty/eleventy-dev-server/issues",
-  "homepage": "https://github.com/11ty/eleventy-dev-server/",
+  "bugs": "https://github.com/11ty/eleventy-patrickmannix-portfolio-dev-server/issues",
+  "homepage": "https://github.com/11ty/eleventy-patrickmannix-portfolio-dev-server/",
   "dependencies": {
     "@11ty/eleventy-utils": "^1.0.2",
     "chokidar": "^3.6.0",

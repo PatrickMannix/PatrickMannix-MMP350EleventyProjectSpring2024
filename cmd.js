@@ -37,7 +37,7 @@ try {
     },
   });
 
-  debug("command: eleventy-dev-server %o", argv);
+  debug("command: eleventy-patrickmannix-portfolio-dev-server %o", argv);
 
   process.on("unhandledRejection", (error, promise) => {
     Logger.fatal("Unhandled rejection in promise:", promise, error);

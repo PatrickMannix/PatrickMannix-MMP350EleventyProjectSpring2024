@@ -6,10 +6,10 @@ const EleventyDevServer = require("./server.js");
 
 const Logger = {
   info: function(...args) {
-    console.log( "[11ty/eleventy-dev-server]", ...args );
+    console.log( "[11ty/eleventy-patrickmannix-portfolio-dev-server]", ...args );
   },
   error: function(...args) {
-    console.error( "[11ty/eleventy-dev-server]", ...args );
+    console.error( "[11ty/eleventy-patrickmannix-portfolio-dev-server]", ...args );
   },
   fatal: function(...args) {
     Logger.error(...args);
